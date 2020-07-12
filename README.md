@@ -1,15 +1,17 @@
 # Hey there! 👋
-<p>
-My name is Liam Jones 😄  
-I'm a Web developer currently living in Calgary, Alberta.
-</p>
 
+### 🧍‍♂️ My name is Liam Jones  
+### 👨‍💻 I'm a Web developer currently living in Calgary, Alberta.  
 
-A bit about me!
+<!-- A bit about me -->
 ```javascript
 const Liam = {
   languages: ['Javascript', 'HTML', 'CSS', 'PHP', 'Python', 'Java', 'C'],
   tools: ['VueJS', 'Laravel', 'JQuery', 'AWS', 'Atom', 'Ubuntu'],
+  education: {
+    university: 'Univerisity of Guelph'
+    major: 'Honours Computer Science'
+  },
   work: [
       {
           company: 'Snappy Innovations.',
@@ -27,5 +29,5 @@ const Liam = {
 ```
 
 <p>
-   Feel free to read more about me at <a href="https://ljones.ca" target="_blank"> ljones.ca </a>
+   Feel free to read more about me at <a href="https://ljones.ca" target="_blank"> ljones.ca </a> 😄
 </p>
