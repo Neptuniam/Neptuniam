@@ -13,12 +13,13 @@
 <br>
 
 ```javascript
-<!-- A little more about me -->
+// A little more about me
 const Liam = {
     languages: ['Javascript', 'HTML', 'CSS', 'PHP', 'Python', 'Java', 'C'],
-    tools: ['Vue.js', 'Laravel', 'AWS', 'Ubuntu', 'Git', 'Atom', 'Git Kraken', 'Postman'],
+    frameworks: ['Vue.js', 'Laravel', 'JQuery'],
+    tools: ['AWS', 'Ubuntu', 'Git', 'Atom', 'Git Kraken', 'Postman'],
     education: {
-        university: 'Univerisity of Guelph',
+        school: 'Univerisity of Guelph',
         major: 'Honours Computer Science',
         graduated: True
     },
