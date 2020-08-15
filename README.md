@@ -16,7 +16,7 @@
 // A little more about me
 const Liam = {
     languages: ['Javascript', 'HTML', 'CSS', 'PHP', 'Python', 'Java', 'C'],
-    frameworks: ['Vue.js', 'Laravel', 'JQuery'],
+    frameworks: ['Vue.js', 'Laravel', 'JQuery', 'Angular'],
     tools: ['AWS', 'Ubuntu', 'Git', 'Atom', 'Git Kraken', 'Postman'],
     education: {
         school: 'Univerisity of Guelph',
@@ -27,12 +27,14 @@ const Liam = {
         {
             company: 'Nobal Technologies.',
             link: 'https://nobal.tech/',
-            role: 'VueJS + Laravel Developer'
+            role: 'Full Stack Web Developer',
+	    stack: ['VueJS', 'Laravel', 'AWS']
         },
         {
             company: 'Snappy Innovations.',
             link: 'https://gosnappy.io/#/',
-            role: 'VueJS Developer'
+            role: 'Product Developer',
+	    stack: ['VueJS']
         }
     ],
     passion: 'Always learning new things to take my code and general practices to the next level'
