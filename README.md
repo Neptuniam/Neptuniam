@@ -6,7 +6,7 @@
 </h3>
 
 <h4>
-	<img src="https://vuejs.org/images/logo.png" height="16"> Currently, my work and personal projects have had me focused heavily on Vue.js and I have loved every second of it! 
+	<img src="https://vuejs.org/images/logo.png" height="16"> Currently, my work and personal projects have had me focused heavily on Vue.js and Flutter and I have loved every second of it! 
 	<br>
 	<img src="http://3.23.114.13/favicon.ico" height="16"> The personal project I'm most proud of is my <a href="https://github.com/Neptuniam/134-HomepageV2">personal homepage / start up page</a>.
 </h4>
@@ -15,26 +15,32 @@
 ```javascript
 // A little more about me
 const Liam = {
-    languages: ['Javascript', 'HTML', 'CSS', 'PHP', 'Python', 'Java', 'C'],
-    frameworks: ['Vue.js', 'Laravel', 'JQuery', 'Angular'],
-    tools: ['AWS', 'Ubuntu', 'Git', 'Atom', 'Git Kraken', 'Postman'],
+    languages: ['Javascript', 'HTML', 'CSS', 'Dart', 'PHP', 'Python', 'Java', 'C'],
+    frameworks: ['Vue.js', 'Flutter', 'Laravel', 'JQuery', 'Angular'],
+    tools: ['AWS', 'Ubuntu', 'Git', 'Atom', 'VScode, 'Git Kraken', 'Postman'],
     education: {
         school: 'Univerisity of Guelph',
         major: 'Honours Computer Science',
-        graduated: True
+        graduated: 2020
     },
     work: [
         {
             company: 'Nobal Technologies.',
             link: 'https://nobal.tech/',
             role: 'Full Stack Web Developer',
-	    stack: ['VueJS', 'Laravel', 'AWS']
+	    stack: ['VueJS', 'Laravel']
         },
         {
             company: 'Snappy Innovations.',
             link: 'https://gosnappy.io/#/',
-            role: 'Product Developer',
-	    stack: ['VueJS']
+            role: 'Senior Software Developer',
+	    stack: ['VueJS', 'Flutter', 'Angular']
+        },
+        {
+            company: 'Yoreferee',
+            link: 'https://axethrowing.org/watl',
+            role: 'Frontend Developer',
+	    stack: ['VueJS', 'Firebase']
         }
     ],
     passion: 'Always learning new things to take my code and general practices to the next level'
