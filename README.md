@@ -17,7 +17,7 @@
 const Liam = {
     languages: ['Javascript', 'HTML', 'CSS', 'Dart', 'PHP', 'Python', 'Java', 'C'],
     frameworks: ['Vue.js', 'Flutter', 'Laravel', 'JQuery', 'Angular'],
-    tools: ['AWS', 'Ubuntu', 'Git', 'Atom', 'VScode, 'Git Kraken', 'Postman'],
+    tools: ['AWS', 'Ubuntu', 'Git', 'Atom', 'VScode, 'Git Kraken', 'Postman', 'Azure'],
     education: {
         school: 'Univerisity of Guelph',
         major: 'Honours Computer Science',
@@ -41,6 +41,12 @@ const Liam = {
             link: 'https://axethrowing.org/watl',
             role: 'Frontend Developer',
 	    stack: ['VueJS', 'Firebase']
+        },
+        {
+            company: 'Intelligent Wellhead Systems',
+            link: 'https://www.intelligentwellheadsystems.com',
+            role: 'Senior Software Developer',
+	    stack: ['VueJS', 'Laravel`']
         }
     ],
     passion: 'Always learning new things to take my code and general practices to the next level'
