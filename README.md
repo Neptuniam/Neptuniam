@@ -16,7 +16,7 @@
 // A little more about me
 const Liam = {
     languages: ['Javascript', 'HTML', 'CSS', 'Dart', 'PHP', 'Python', 'Java', 'C'],
-    frameworks: ['Vue.js', 'Flutter', 'Laravel', 'JQuery', 'Angular'],
+    frameworks: ['Vue.js', 'Flutter', 'Laravel', 'JQuery', 'Angular', 'React'],
     tools: ['AWS', 'Ubuntu', 'Git', 'Atom', 'VScode, 'Git Kraken', 'Postman', 'Azure'],
     education: {
         school: 'Univerisity of Guelph',
